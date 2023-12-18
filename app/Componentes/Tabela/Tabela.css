@@ -1,0 +1,13 @@
+table{
+    width: 100%;
+}
+
+table thead{
+    background-color: rgb(158, 155, 155);
+    height: 50px;
+}
+
+table th, td{
+    border: 1px solid rgb(122, 121, 121);
+    text-align: center;
+}
